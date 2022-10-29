@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"stickman",
+			"stickman",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"sticked",
+			"picoshift",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"stick nice",
+			"picoshift",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stickmannight",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "stickman sticky",
+	"weekName": "Troll Face",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

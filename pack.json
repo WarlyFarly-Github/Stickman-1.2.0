@@ -1,0 +1,7 @@
+{
+	"name": "Stickman!",
+	"description": "Latest Update - Stickman Ultra Update!",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [255, 255, 255]
+}
