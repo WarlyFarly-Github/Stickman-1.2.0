@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Strange",
+			"stupid",
+			[
+				255,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "doomsday",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Friend, or foe?...",
+	"weekName": "Crap Week 2 Sticky boiiiiii",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weeklol",
+	"startUnlocked": false
+}
