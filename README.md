@@ -1,10 +1,18 @@
-# Stickman-1.2.0
-The Next Level Version Of Stickman
+## Friday Night Funkin' VS Stickman
 
-People that can see this:
+## Includes
 
-LilDrippyMyFnf (MyFnf)
+* lots of characters
+* Some cool songs
+* yeah,idk,not much
 
-Me (WarlyFarly-Github)
+## Creators
 
-This update will be epic.
+* WarlyFarly_Unity - Developer
+* MyFnf - CO dev
+
+## V1.2.0
+
+* best,remastered songs
+* remastered characters and art
+* a little bit of coding
