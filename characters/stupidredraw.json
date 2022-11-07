@@ -9,7 +9,7 @@
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "StupidNor Sing Note LEFT"
+			"name": "Dad Sing Note LEFT"
 		},
 		{
 			"loop": false,
@@ -20,7 +20,7 @@
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "StupidNor Sing Note DOWN"
+			"name": "Dad Sing Note DOWN"
 		},
 		{
 			"loop": false,
@@ -31,7 +31,7 @@
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "StupidNor Sing Note UP"
+			"name": "Dad Sing Note UP"
 		},
 		{
 			"loop": false,
@@ -42,7 +42,7 @@
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "StupidNor Sing Note RIGHT"
+			"name": "Dad Sing Note RIGHT"
 		},
 		{
 			"loop": false,
@@ -53,7 +53,7 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "StupidNor idle dance"
+			"name": "Dad idle dance"
 		},
 		{
 			"loop": true,
@@ -63,7 +63,7 @@
 			],
 			"anim": "idle-loop",
 			"fps": 24,
-			"name": "StupidNor idle dance",
+			"name": "Dad idle dance",
 			"indices": [
 				10,
 				11,
@@ -79,7 +79,7 @@
 			],
 			"anim": "singLEFT-loop",
 			"fps": 24,
-			"name": "StupidNor Sing Note LEFT",
+			"name": "Dad Sing Note LEFT",
 			"indices": [
 				12,
 				13,
@@ -95,7 +95,7 @@
 			],
 			"anim": "singRIGHT-loop",
 			"fps": 24,
-			"name": "StupidNor Sing Note RIGHT",
+			"name": "Dad Sing Note RIGHT",
 			"indices": [
 				15,
 				16,
@@ -111,7 +111,7 @@
 			],
 			"anim": "singUP-loop",
 			"fps": 24,
-			"name": "StupidNor Sing Note UP",
+			"name": "Dad Sing Note UP",
 			"indices": [
 				56,
 				57,
