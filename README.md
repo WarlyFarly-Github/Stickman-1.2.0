@@ -16,3 +16,5 @@
 * best,remastered songs
 * remastered characters and art
 * a little bit of coding
+
+EDIT by WarlyFarly-Github: coding only if i find a coder (which is unlikely)
