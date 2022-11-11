@@ -17,6 +17,5 @@
 * remastered characters and art
 * a little bit of coding
 
-EDIT by WarlyFarly-Github: coding only if i find a coder (which is unlikely)
+EDIT by WarlyFarly-Github: coding only if i find a coder FOR LUA (which is unlikely)
 
-EDIT by MyFnf:i'm am lmao.........uhhh,i wanna be the coder cuz i can sort of code haxe
