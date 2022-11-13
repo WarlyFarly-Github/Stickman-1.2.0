@@ -17,5 +17,7 @@
 * remastered characters and art
 * a little bit of coding
 
-EDIT by WarlyFarly-Github: coding only if i find a coder FOR LUA (which is unlikely)
+## Please Note
+
+There is a shop added to stickman, but there are so many files i'm too lazy to port them here, so i won't.
 
