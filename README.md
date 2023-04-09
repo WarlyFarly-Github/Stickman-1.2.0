@@ -11,7 +11,7 @@
 * WarlyFarly_Unity - Developer
 * MyFnf - CO dev
 
-## V1.2.0
+## 1.2.0
 
 * best,remastered songs
 * remastered characters and art
@@ -19,5 +19,6 @@
 
 ## Please Note
 
-There was a shop added to stickman, but there are so many files i'm too lazy to port them here, so i won't.
+> There was a shop added to stickman, but there are so many files i'm too lazy to port them here, so i won't.
 
+the shop menu totally got added :smirk:
